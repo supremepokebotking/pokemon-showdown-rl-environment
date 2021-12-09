@@ -1,0 +1,2 @@
+elgible_random_pokemon = ['charizard', 'pidgeot', 'raticatealola', 'arbok', 'sandslashalola', 'nidoqueen', 'clefable', 'ninetalesalola', 'dugtrio', 'golduck', 'arcanine', 'alakazam', 'machamp', 'golemalola', 'magneton', 'farfetchd', 'cloyster', 'gengar', 'kingler', 'exeggutoralola', 'hitmonchan', 'weezing', 'rhydon', 'chansey', 'rapidash', 'arcanine', 'sandslash', 'raticate', 'hitmonlee', 'hitmontop', 'starmie']
+

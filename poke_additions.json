@@ -1,0 +1,2669 @@
+{
+  "pikachualola": {
+    "species": "Pikachu-Alola",
+    "num": 893,
+    "baseSpecies": "Pikachu",
+    "forme": "1",
+    "formeLetter": "1",
+    "types": [
+      "Electric"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Static",
+      "1": "Static",
+      "H": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6
+  },
+  "pikachuhoenn": {
+    "species": "Pikachu-Hoenn",
+    "num": 894,
+    "baseSpecies": "Pikachu",
+    "forme": "2",
+    "formeLetter": "2",
+    "types": [
+      "Electric"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Static",
+      "1": "Static",
+      "H": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6
+  },
+  "pikachukalos": {
+    "species": "Pikachu-Kalos",
+    "num": 895,
+    "baseSpecies": "Pikachu",
+    "forme": "3",
+    "formeLetter": "3",
+    "types": [
+      "Electric"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Static",
+      "1": "Static",
+      "H": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6
+  },
+  "pikachuoriginal": {
+    "species": "Pikachu-Original",
+    "num": 896,
+    "baseSpecies": "Pikachu",
+    "forme": "4",
+    "formeLetter": "4",
+    "types": [
+      "Electric"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Static",
+      "1": "Static",
+      "H": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6
+  },
+  "pikachupartner": {
+    "species": "Pikachu-Partner",
+    "num": 897,
+    "baseSpecies": "Pikachu",
+    "forme": "5",
+    "formeLetter": "5",
+    "types": [
+      "Electric"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Static",
+      "1": "Static",
+      "H": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6
+  },
+  "pikachusinnoh": {
+    "species": "Pikachu-Sinnoh",
+    "num": 898,
+    "baseSpecies": "Pikachu",
+    "forme": "6",
+    "formeLetter": "6",
+    "types": [
+      "Electric"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Static",
+      "1": "Static",
+      "H": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6
+  },
+  "pikachuunova": {
+    "species": "Pikachu-Unova",
+    "num": 899,
+    "baseSpecies": "Pikachu",
+    "forme": "7",
+    "formeLetter": "7",
+    "types": [
+      "Electric"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Static",
+      "1": "Static",
+      "H": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6
+  },
+  "ponytagalar": {
+    "species": "Ponyta-Galar",
+    "num": 913,
+    "baseSpecies": "Ponyta",
+    "forme": "Galar",
+    "formeLetter": "G",
+    "types": [
+      "Psychic"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 85,
+      "def": 55,
+      "spa": 65,
+      "spd": 65,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Run Away",
+      "1": "Pastel Veil",
+      "H": "Anticipation"
+    },
+    "heightm": 0.8,
+    "weightkg": 24
+  },
+  "rapidashgalar": {
+    "species": "Rapidash-Galar",
+    "num": 914,
+    "baseSpecies": "Rapidash",
+    "forme": "Galar",
+    "formeLetter": "G",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 100,
+      "def": 70,
+      "spa": 80,
+      "spd": 80,
+      "spe": 105
+    },
+    "abilities": {
+      "0": "Run Away",
+      "1": "Pastel Veil",
+      "H": "Anticipation"
+    },
+    "heightm": 1.7,
+    "weightkg": 80
+  },
+  "farfetchdgalar": {
+    "species": "Farfetch'd-Galar",
+    "num": 915,
+    "baseSpecies": "Farfetch'd",
+    "forme": "Galar",
+    "formeLetter": "G",
+    "types": [
+      "Fighting"
+    ],
+    "baseStats": {
+      "hp": 52,
+      "atk": 95,
+      "def": 55,
+      "spa": 58,
+      "spd": 62,
+      "spe": 55
+    },
+    "abilities": {
+      "0": "Steadfast",
+      "1": "Steadfast",
+      "H": "Scrappy"
+    },
+    "heightm": 0.8,
+    "weightkg": 42
+  },
+  "Weezing-Galar": {
+    "species": "Weezing-Galar",
+    "num": 920,
+    "baseSpecies": "Weezing",
+    "forme": "1",
+    "formeLetter": "1",
+    "types": [
+      "Poison",
+      "Fairy"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 90,
+      "def": 120,
+      "spa": 85,
+      "spd": 70,
+      "spe": 60
+    },
+    "abilities": {
+      "0": "Levitate",
+      "1": "Neutralizing Gas",
+      "H": "Misty Surge"
+    },
+    "heightm": 3,
+    "weightkg": 16
+  },
+  "mrmimegalar": {
+    "species": "Mr. Mime-Galar",
+    "num": 921,
+    "baseSpecies": "Mr. Mime",
+    "forme": "Galar",
+    "formeLetter": "G",
+    "types": [
+      "Ice",
+      "Psychic"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 65,
+      "def": 65,
+      "spa": 90,
+      "spd": 90,
+      "spe": 100
+    },
+    "abilities": {
+      "0": "Vital Spirit",
+      "1": "Screen Cleaner",
+      "H": "Ice Body"
+    },
+    "heightm": 1.4,
+    "weightkg": 56.8
+  },
+  "corsolagalar": {
+    "species": "Corsola-Galar",
+    "num": 949,
+    "baseSpecies": "Corsola",
+    "forme": "Galar",
+    "formeLetter": "G",
+    "types": [
+      "Ghost"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 55,
+      "def": 100,
+      "spa": 65,
+      "spd": 100,
+      "spe": 30
+    },
+    "abilities": {
+      "0": "Weak Armor",
+      "1": "Weak Armor",
+      "H": "Cursed Body"
+    },
+    "heightm": 0.6,
+    "weightkg": 0.5
+  },
+  "zigzagoongalar": {
+    "species": "Zigzagoon-Galar",
+    "num": 950,
+    "baseSpecies": "Zigzagoon",
+    "forme": "Galar",
+    "formeLetter": "G",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "baseStats": {
+      "hp": 38,
+      "atk": 30,
+      "def": 41,
+      "spa": 30,
+      "spd": 41,
+      "spe": 60
+    },
+    "abilities": {
+      "0": "Pickup",
+      "1": "Gluttony",
+      "H": "Quick Feet"
+    },
+    "heightm": 0.4,
+    "weightkg": 17.5
+  },
+  "linoonegalar": {
+    "species": "Linoone-Galar",
+    "num": 951,
+    "baseSpecies": "Linoone",
+    "forme": "Galar",
+    "formeLetter": "G",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "baseStats": {
+      "hp": 78,
+      "atk": 70,
+      "def": 61,
+      "spa": 50,
+      "spd": 61,
+      "spe": 100
+    },
+    "abilities": {
+      "0": "Pickup",
+      "1": "Gluttony",
+      "H": "Quick Feet"
+    },
+    "heightm": 0.5,
+    "weightkg": 32.5
+  },
+
+  "darumakagalar": {
+    "species": "Darumaka-Galar",
+    "num": 993,
+    "baseSpecies": "Darumaka",
+    "forme": "Galar",
+    "formeLetter": "G",
+    "types": [
+      "Ice"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 90,
+      "def": 45,
+      "spa": 15,
+      "spd": 45,
+      "spe": 50
+    },
+    "abilities": {
+      "0": "Hustle",
+      "1": "Hustle",
+      "H": "Inner Focus"
+    },
+    "heightm": 0.7,
+    "weightkg": 40
+  },
+  "darmanitangalar": {
+    "species": "Darmanitan-Galar",
+    "num": 995,
+    "baseSpecies": "Darmanitan",
+    "forme": "Galar",
+    "formeLetter": "G",
+    "types": [
+      "Ice"
+    ],
+    "baseStats": {
+      "hp": 105,
+      "atk": 140,
+      "def": 55,
+      "spa": 30,
+      "spd": 55,
+      "spe": 95
+    },
+    "abilities": {
+      "0": "Gorilla Tactics",
+      "1": "Gorilla Tactics",
+      "H": "Zen Mode"
+    },
+    "heightm": 1.7,
+    "weightkg": 120
+  },
+  "darmanitangalarzen": {
+    "species": "Darmanitan-Galar-Zen",
+    "num": 996,
+    "baseSpecies": "Darmanitan",
+    "forme": "Galar",
+    "formeLetter": "G",
+    "types": [
+      "Ice",
+      "Psychic"
+    ],
+    "baseStats": {
+      "hp": 105,
+      "atk": 160,
+      "def": 55,
+      "spa": 30,
+      "spd": 55,
+      "spe": 135
+    },
+    "abilities": {
+      "0": "Gorilla Tactics",
+      "1": "Gorilla Tactics",
+      "H": "Zen Mode"
+    },
+    "heightm": 1.7,
+    "weightkg": 120
+  },
+  "yamaskgalar": {
+    "species": "Yamask-Galar",
+    "num": 997,
+    "baseSpecies": "Yamask",
+    "forme": "Galar",
+    "formeLetter": "G",
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
+    "baseStats": {
+      "hp": 38,
+      "atk": 55,
+      "def": 85,
+      "spa": 30,
+      "spd": 65,
+      "spe": 30
+    },
+    "abilities": {
+      "0": "Wandering Spirit",
+      "1": "Wandering Spirit",
+      "H": "Wandering Spirit"
+    },
+    "heightm": 0.5,
+    "weightkg": 1.5
+  },
+  "stunfiskgalar": {
+    "species": "Stunfisk-Galar",
+    "num": 1004,
+    "baseSpecies": "Stunfisk",
+    "forme": "Galar",
+    "formeLetter": "G",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
+    "baseStats": {
+      "hp": 109,
+      "atk": 81,
+      "def": 99,
+      "spa": 66,
+      "spd": 84,
+      "spe": 32
+    },
+    "abilities": {
+      "0": "Mimicry",
+      "1": "Mimicry",
+      "H": "Mimicry"
+    },
+    "heightm": 0.7,
+    "weightkg": 20.5
+  },
+  "necrozmadawnwings": {
+    "species": "Necrozma-Dawn-Wings",
+    "num": 1149,
+    "baseSpecies": "Necrozma",
+    "types": [
+      "Psychic",
+      "Steel"
+    ],
+    "baseStats": {
+      "hp": 97,
+      "atk": 157,
+      "def": 127,
+      "spa": 113,
+      "spd": 109,
+      "spe": 77
+    },
+    "abilities": {
+      "0": "Prism Armor",
+      "1": "Prism Armor",
+      "H": "Prism Armor"
+    },
+    "heightm": 3.8,
+    "weightkg": 460
+  },
+  "necrozmaduskmane": {
+    "species": "Necrozma-Dusk-Mane",
+    "num": 1150,
+    "baseSpecies": "Necrozma",
+    "types": [
+      "Psychic",
+      "Ghost"
+    ],
+    "baseStats": {
+      "hp": 97,
+      "atk": 113,
+      "def": 109,
+      "spa": 157,
+      "spd": 127,
+      "spe": 77
+    },
+    "abilities": {
+      "0": "Prism Armor",
+      "1": "Prism Armor",
+      "H": "Prism Armor"
+    },
+    "heightm": 4.2,
+    "weightkg": 350
+  },
+  "zeraora": {
+    "species": "Zeraora",
+    "num": 807,
+    "types": [
+      "Electric"
+    ],
+    "baseStats": {
+      "hp": 88,
+      "atk": 112,
+      "def": 75,
+      "spa": 102,
+      "spd": 80,
+      "spe": 143
+    },
+    "abilities": {
+      "0": "Volt Absorb",
+      "1": "Volt Absorb",
+      "H": "Volt Absorb"
+    },
+    "heightm": 1.5,
+    "weightkg": 44.5
+  },
+  "meltan": {
+    "species": "Meltan",
+    "num": 808,
+    "types": [
+      "Steel"
+    ],
+    "baseStats": {
+      "hp": 46,
+      "atk": 65,
+      "def": 65,
+      "spa": 55,
+      "spd": 35,
+      "spe": 34
+    },
+    "abilities": {
+      "0": "Magnet Pull",
+      "1": "Magnet Pull",
+      "H": "Magnet Pull"
+    },
+    "heightm": 0.2,
+    "weightkg": 8
+  },
+  "melmetal": {
+    "species": "Melmetal",
+    "num": 809,
+    "types": [
+      "Steel"
+    ],
+    "baseStats": {
+      "hp": 135,
+      "atk": 143,
+      "def": 143,
+      "spa": 80,
+      "spd": 65,
+      "spe": 34
+    },
+    "abilities": {
+      "0": "Iron Fist",
+      "1": "Iron Fist",
+      "H": "Iron Fist"
+    },
+    "heightm": 2.5,
+    "weightkg": 800
+  },
+  "grookey": {
+    "species": "Grookey",
+    "num": 810,
+    "types": [
+      "Grass"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 65,
+      "def": 50,
+      "spa": 40,
+      "spd": 40,
+      "spe": 65
+    },
+    "abilities": {
+      "0": "Overgrow",
+      "1": "Overgrow",
+      "H": "Grassy Surge"
+    },
+    "heightm": 0.3,
+    "weightkg": 5
+  },
+  "thwackey": {
+    "species": "Thwackey",
+    "num": 811,
+    "types": [
+      "Grass"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 85,
+      "def": 70,
+      "spa": 55,
+      "spd": 60,
+      "spe": 80
+    },
+    "abilities": {
+      "0": "Overgrow",
+      "1": "Overgrow",
+      "H": "Grassy Surge"
+    },
+    "heightm": 0.7,
+    "weightkg": 14
+  },
+  "rillaboom": {
+    "species": "Rillaboom",
+    "num": 812,
+    "types": [
+      "Grass"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 125,
+      "def": 90,
+      "spa": 60,
+      "spd": 70,
+      "spe": 85
+    },
+    "abilities": {
+      "0": "Overgrow",
+      "1": "Overgrow",
+      "H": "Grassy Surge"
+    },
+    "heightm": 2.1,
+    "weightkg": 90
+  },
+  "scorbunny": {
+    "species": "Scorbunny",
+    "num": 813,
+    "types": [
+      "Fire"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 71,
+      "def": 40,
+      "spa": 40,
+      "spd": 40,
+      "spe": 69
+    },
+    "abilities": {
+      "0": "Blaze",
+      "1": "Blaze",
+      "H": "Libero"
+    },
+    "heightm": 0.3,
+    "weightkg": 4.5
+  },
+  "raboot": {
+    "species": "Raboot",
+    "num": 814,
+    "types": [
+      "Fire"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 86,
+      "def": 60,
+      "spa": 55,
+      "spd": 60,
+      "spe": 94
+    },
+    "abilities": {
+      "0": "Blaze",
+      "1": "Blaze",
+      "H": "Libero"
+    },
+    "heightm": 0.6,
+    "weightkg": 9
+  },
+  "cinderace": {
+    "species": "Cinderace",
+    "num": 815,
+    "types": [
+      "Fire"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 116,
+      "def": 75,
+      "spa": 65,
+      "spd": 75,
+      "spe": 119
+    },
+    "abilities": {
+      "0": "Blaze",
+      "1": "Blaze",
+      "H": "Libero"
+    },
+    "heightm": 1.4,
+    "weightkg": 33
+  },
+  "sobble": {
+    "species": "Sobble",
+    "num": 816,
+    "types": [
+      "Water"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 40,
+      "def": 40,
+      "spa": 70,
+      "spd": 40,
+      "spe": 70
+    },
+    "abilities": {
+      "0": "Torrent",
+      "1": "Torrent",
+      "H": "Sniper"
+    },
+    "heightm": 0.3,
+    "weightkg": 4
+  },
+  "drizzile": {
+    "species": "Drizzile",
+    "num": 817,
+    "types": [
+      "Water"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 60,
+      "def": 55,
+      "spa": 95,
+      "spd": 55,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Torrent",
+      "1": "Torrent",
+      "H": "Sniper"
+    },
+    "heightm": 0.7,
+    "weightkg": 11.5
+  },
+  "inteleon": {
+    "species": "Inteleon",
+    "num": 818,
+    "types": [
+      "Water"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 85,
+      "def": 65,
+      "spa": 125,
+      "spd": 65,
+      "spe": 120
+    },
+    "abilities": {
+      "0": "Torrent",
+      "1": "Torrent",
+      "H": "Sniper"
+    },
+    "heightm": 1.9,
+    "weightkg": 45.2
+  },
+  "skwovet": {
+    "species": "Skwovet",
+    "num": 819,
+    "types": [
+      "Normal"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 55,
+      "def": 55,
+      "spa": 35,
+      "spd": 35,
+      "spe": 25
+    },
+    "abilities": {
+      "0": "Cheek Pouch",
+      "1": "Cheek Pouch",
+      "H": "Gluttony"
+    },
+    "heightm": 0.3,
+    "weightkg": 2.5
+  },
+  "greedent": {
+    "species": "Greedent",
+    "num": 820,
+    "types": [
+      "Normal"
+    ],
+    "baseStats": {
+      "hp": 120,
+      "atk": 95,
+      "def": 95,
+      "spa": 55,
+      "spd": 75,
+      "spe": 20
+    },
+    "abilities": {
+      "0": "Cheek Pouch",
+      "1": "Cheek Pouch",
+      "H": "Gluttony"
+    },
+    "heightm": 0.6,
+    "weightkg": 6
+  },
+  "rookidee": {
+    "species": "Rookidee",
+    "num": 821,
+    "types": [
+      "Flying"
+    ],
+    "baseStats": {
+      "hp": 38,
+      "atk": 47,
+      "def": 35,
+      "spa": 33,
+      "spd": 35,
+      "spe": 57
+    },
+    "abilities": {
+      "0": "Keen Eye",
+      "1": "Unnerve",
+      "H": "Big Pecks"
+    },
+    "heightm": 0.2,
+    "weightkg": 1.8
+  },
+  "corvisquire": {
+    "species": "Corvisquire",
+    "num": 822,
+    "types": [
+      "Flying"
+    ],
+    "baseStats": {
+      "hp": 68,
+      "atk": 67,
+      "def": 55,
+      "spa": 43,
+      "spd": 55,
+      "spe": 77
+    },
+    "abilities": {
+      "0": "Keen Eye",
+      "1": "Unnerve",
+      "H": "Big Pecks"
+    },
+    "heightm": 0.8,
+    "weightkg": 16
+  },
+  "corviknight": {
+    "species": "Corviknight",
+    "num": 823,
+    "types": [
+      "Flying",
+      "Steel"
+    ],
+    "baseStats": {
+      "hp": 98,
+      "atk": 87,
+      "def": 105,
+      "spa": 53,
+      "spd": 85,
+      "spe": 67
+    },
+    "abilities": {
+      "0": "Pressure",
+      "1": "Unnerve",
+      "H": "Mirror Armor"
+    },
+    "heightm": 2.2,
+    "weightkg": 75
+  },
+  "blipbug": {
+    "species": "Blipbug",
+    "num": 824,
+    "types": [
+      "Bug"
+    ],
+    "baseStats": {
+      "hp": 25,
+      "atk": 20,
+      "def": 20,
+      "spa": 25,
+      "spd": 45,
+      "spe": 45
+    },
+    "abilities": {
+      "0": "Swarm",
+      "1": "Compound Eyes",
+      "H": "Telepathy"
+    },
+    "heightm": 0.4,
+    "weightkg": 8
+  },
+  "dottler": {
+    "species": "Dottler",
+    "num": 825,
+    "types": [
+      "Bug",
+      "Psychic"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 35,
+      "def": 80,
+      "spa": 50,
+      "spd": 90,
+      "spe": 30
+    },
+    "abilities": {
+      "0": "Swarm",
+      "1": "Compound Eyes",
+      "H": "Telepathy"
+    },
+    "heightm": 0.4,
+    "weightkg": 19.5
+  },
+  "orbeetle": {
+    "species": "Orbeetle",
+    "num": 826,
+    "types": [
+      "Bug",
+      "Psychic"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 45,
+      "def": 110,
+      "spa": 80,
+      "spd": 120,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Swarm",
+      "1": "Frisk",
+      "H": "Telepathy"
+    },
+    "heightm": 0.4,
+    "weightkg": 40.8
+  },
+  "nickit": {
+    "species": "Nickit",
+    "num": 827,
+    "types": [
+      "Dark"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 28,
+      "def": 28,
+      "spa": 47,
+      "spd": 52,
+      "spe": 50
+    },
+    "abilities": {
+      "0": "Run Away",
+      "1": "Unburden",
+      "H": "Stakeout"
+    },
+    "heightm": 0.6,
+    "weightkg": 8.9
+  },
+  "thievul": {
+    "species": "Thievul",
+    "num": 828,
+    "types": [
+      "Dark"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 58,
+      "def": 58,
+      "spa": 87,
+      "spd": 92,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Run Away",
+      "1": "Unburden",
+      "H": "Stakeout"
+    },
+    "heightm": 1.2,
+    "weightkg": 19.9
+  },
+  "gossifleur": {
+    "species": "Gossifleur",
+    "num": 829,
+    "types": [
+      "Grass"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 40,
+      "def": 60,
+      "spa": 40,
+      "spd": 60,
+      "spe": 10
+    },
+    "abilities": {
+      "0": "Cotton Down",
+      "1": "Regenerator",
+      "H": "Effect Spore"
+    },
+    "heightm": 0.4,
+    "weightkg": 2.2
+  },
+  "eldegoss": {
+    "species": "Eldegoss",
+    "num": 830,
+    "types": [
+      "Grass"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 50,
+      "def": 90,
+      "spa": 80,
+      "spd": 120,
+      "spe": 60
+    },
+    "abilities": {
+      "0": "Cotton Down",
+      "1": "Regenerator",
+      "H": "Effect Spore"
+    },
+    "heightm": 0.5,
+    "weightkg": 2.5
+  },
+  "wooloo": {
+    "species": "Wooloo",
+    "num": 831,
+    "types": [
+      "Normal"
+    ],
+    "baseStats": {
+      "hp": 42,
+      "atk": 40,
+      "def": 55,
+      "spa": 40,
+      "spd": 45,
+      "spe": 48
+    },
+    "abilities": {
+      "0": "Fluffy",
+      "1": "Run Away",
+      "H": "Bulletproof"
+    },
+    "heightm": 0.6,
+    "weightkg": 6
+  },
+  "dubwool": {
+    "species": "Dubwool",
+    "num": 832,
+    "types": [
+      "Normal"
+    ],
+    "baseStats": {
+      "hp": 72,
+      "atk": 80,
+      "def": 100,
+      "spa": 60,
+      "spd": 90,
+      "spe": 88
+    },
+    "abilities": {
+      "0": "Fluffy",
+      "1": "Steadfast",
+      "H": "Bulletproof"
+    },
+    "heightm": 1.3,
+    "weightkg": 43
+  },
+  "chewtle": {
+    "species": "Chewtle",
+    "num": 833,
+    "types": [
+      "Water"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 64,
+      "def": 50,
+      "spa": 38,
+      "spd": 38,
+      "spe": 44
+    },
+    "abilities": {
+      "0": "Strong Jaw",
+      "1": "Shell Armor",
+      "H": "Swift Swim"
+    },
+    "heightm": 0.3,
+    "weightkg": 8.5
+  },
+  "drednaw": {
+    "species": "Drednaw",
+    "num": 834,
+    "types": [
+      "Water",
+      "Rock"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 115,
+      "def": 90,
+      "spa": 48,
+      "spd": 68,
+      "spe": 74
+    },
+    "abilities": {
+      "0": "Strong Jaw",
+      "1": "Shell Armor",
+      "H": "Swift Swim"
+    },
+    "heightm": 1,
+    "weightkg": 115.5
+  },
+  "yamper": {
+    "species": "Yamper",
+    "num": 835,
+    "types": [
+      "Electric"
+    ],
+    "baseStats": {
+      "hp": 59,
+      "atk": 45,
+      "def": 50,
+      "spa": 40,
+      "spd": 50,
+      "spe": 26
+    },
+    "abilities": {
+      "0": "Ball Fetch",
+      "1": "Ball Fetch",
+      "H": "Rattled"
+    },
+    "heightm": 0.3,
+    "weightkg": 13.5
+  },
+  "boltund": {
+    "species": "Boltund",
+    "num": 836,
+    "types": [
+      "Electric"
+    ],
+    "baseStats": {
+      "hp": 69,
+      "atk": 90,
+      "def": 60,
+      "spa": 90,
+      "spd": 60,
+      "spe": 121
+    },
+    "abilities": {
+      "0": "Strong Jaw",
+      "1": "Strong Jaw",
+      "H": "Competitive"
+    },
+    "heightm": 1,
+    "weightkg": 34
+  },
+  "rolycoly": {
+    "species": "Rolycoly",
+    "num": 837,
+    "types": [
+      "Rock"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "atk": 40,
+      "def": 50,
+      "spa": 40,
+      "spd": 50,
+      "spe": 30
+    },
+    "abilities": {
+      "0": "Steam Engine",
+      "1": "Heatproof",
+      "H": "Flash Fire"
+    },
+    "heightm": 0.3,
+    "weightkg": 12
+  },
+  "carkol": {
+    "species": "Carkol",
+    "num": 838,
+    "types": [
+      "Rock",
+      "Fire"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 60,
+      "def": 90,
+      "spa": 60,
+      "spd": 70,
+      "spe": 50
+    },
+    "abilities": {
+      "0": "Steam Engine",
+      "1": "Flame Body",
+      "H": "Flash Fire"
+    },
+    "heightm": 1.1,
+    "weightkg": 78
+  },
+  "coalossal": {
+    "species": "Coalossal",
+    "num": 839,
+    "types": [
+      "Rock",
+      "Fire"
+    ],
+    "baseStats": {
+      "hp": 110,
+      "atk": 80,
+      "def": 120,
+      "spa": 80,
+      "spd": 90,
+      "spe": 30
+    },
+    "abilities": {
+      "0": "Steam Engine",
+      "1": "Flame Body",
+      "H": "Flash Fire"
+    },
+    "heightm": 2.8,
+    "weightkg": 310.5
+  },
+  "applin": {
+    "species": "Applin",
+    "num": 840,
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 40,
+      "def": 80,
+      "spa": 40,
+      "spd": 40,
+      "spe": 20
+    },
+    "abilities": {
+      "0": "Ripen",
+      "1": "Gluttony",
+      "H": "Bulletproof"
+    },
+    "heightm": 0.2,
+    "weightkg": 0.5
+  },
+  "flapple": {
+    "species": "Flapple",
+    "num": 841,
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 110,
+      "def": 80,
+      "spa": 95,
+      "spd": 60,
+      "spe": 70
+    },
+    "abilities": {
+      "0": "Ripen",
+      "1": "Gluttony",
+      "H": "Hustle"
+    },
+    "heightm": 0.3,
+    "weightkg": 1
+  },
+  "appletun": {
+    "species": "Appletun",
+    "num": 842,
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "baseStats": {
+      "hp": 110,
+      "atk": 85,
+      "def": 80,
+      "spa": 100,
+      "spd": 80,
+      "spe": 30
+    },
+    "abilities": {
+      "0": "Ripen",
+      "1": "Gluttony",
+      "H": "Thick Fat"
+    },
+    "heightm": 0.4,
+    "weightkg": 13
+  },
+  "silicobra": {
+    "species": "Silicobra",
+    "num": 843,
+    "types": [
+      "Ground"
+    ],
+    "baseStats": {
+      "hp": 52,
+      "atk": 57,
+      "def": 75,
+      "spa": 35,
+      "spd": 50,
+      "spe": 46
+    },
+    "abilities": {
+      "0": "Sand Spit",
+      "1": "Shed Skin",
+      "H": "Sand Veil"
+    },
+    "heightm": 2.2,
+    "weightkg": 7.6
+  },
+  "sandaconda": {
+    "species": "Sandaconda",
+    "num": 844,
+    "types": [
+      "Ground"
+    ],
+    "baseStats": {
+      "hp": 72,
+      "atk": 107,
+      "def": 125,
+      "spa": 65,
+      "spd": 70,
+      "spe": 71
+    },
+    "abilities": {
+      "0": "Sand Spit",
+      "1": "Shed Skin",
+      "H": "Sand Veil"
+    },
+    "heightm": 3.8,
+    "weightkg": 65.5
+  },
+  "cramorant": {
+    "species": "Cramorant",
+    "num": 845,
+    "types": [
+      "Flying",
+      "Water"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 85,
+      "def": 55,
+      "spa": 85,
+      "spd": 95,
+      "spe": 85
+    },
+    "abilities": {
+      "0": "Gulp Missile",
+      "1": "Gulp Missile",
+      "H": "Gulp Missile"
+    },
+    "heightm": 0.8,
+    "weightkg": 18
+  },
+  "cramorantgorging": {
+    "species": "Cramorant-Gorging",
+    "num": 1152,
+    "baseSpecies": "Cramorant",
+    "types": [
+      "Flying",
+      "Water"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 85,
+      "def": 55,
+      "spa": 85,
+      "spd": 95,
+      "spe": 85
+    },
+    "abilities": {
+      "0": "Gulp Missile",
+      "1": "Gulp Missile",
+      "H": "Gulp Missile"
+    },
+    "heightm": 0.8,
+    "weightkg": 18
+  },
+  "cramorantgulping": {
+    "species": "Cramorant-Gulping",
+    "num": 1153,
+    "baseSpecies": "Cramorant",
+    "types": [
+      "Flying",
+      "Water"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 85,
+      "def": 55,
+      "spa": 85,
+      "spd": 95,
+      "spe": 85
+    },
+    "abilities": {
+      "0": "Gulp Missile",
+      "1": "Gulp Missile",
+      "H": "Gulp Missile"
+    },
+    "heightm": 0.8,
+    "weightkg": 18
+  },
+  "arrokuda": {
+    "species": "Arrokuda",
+    "num": 846,
+    "types": [
+      "Water"
+    ],
+    "baseStats": {
+      "hp": 41,
+      "atk": 63,
+      "def": 40,
+      "spa": 40,
+      "spd": 30,
+      "spe": 66
+    },
+    "abilities": {
+      "0": "Swift Swim",
+      "1": "Swift Swim",
+      "H": "Propeller Tail"
+    },
+    "heightm": 0.5,
+    "weightkg": 1
+  },
+  "barraskewda": {
+    "species": "Barraskewda",
+    "num": 847,
+    "types": [
+      "Water"
+    ],
+    "baseStats": {
+      "hp": 61,
+      "atk": 123,
+      "def": 60,
+      "spa": 60,
+      "spd": 50,
+      "spe": 136
+    },
+    "abilities": {
+      "0": "Swift Swim",
+      "1": "Swift Swim",
+      "H": "Propeller Tail"
+    },
+    "heightm": 1.3,
+    "weightkg": 30
+  },
+  "toxel": {
+    "species": "Toxel",
+    "num": 848,
+    "types": [
+      "Electric",
+      "Poison"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 38,
+      "def": 35,
+      "spa": 54,
+      "spd": 35,
+      "spe": 40
+    },
+    "abilities": {
+      "0": "Rattled",
+      "1": "Static",
+      "H": "Klutz"
+    },
+    "heightm": 0.4,
+    "weightkg": 11
+  },
+  "toxtricity": {
+    "species": "Toxtricity",
+    "num": 849,
+    "types": [
+      "Electric",
+      "Poison"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 98,
+      "def": 70,
+      "spa": 114,
+      "spd": 70,
+      "spe": 75
+    },
+    "abilities": {
+      "0": "Punk Rock",
+      "1": "Plus",
+      "H": "Technician"
+    },
+    "heightm": 1.6,
+    "weightkg": 40
+  },
+  "toxtricitylowkey": {
+    "species": "Toxtricity-Low-Key",
+    "num": 1154,
+    "baseSpecies": "Toxtricity",
+    "forme": "Low-Key",
+    "formeLetter": "L",
+    "types": [
+      "Electric",
+      "Poison"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 98,
+      "def": 70,
+      "spa": 114,
+      "spd": 70,
+      "spe": 75
+    },
+    "abilities": {
+      "0": "Punk Rock",
+      "1": "Minus",
+      "H": "Technician"
+    },
+    "heightm": 1.6,
+    "weightkg": 40
+  },
+  "sizzlipede": {
+    "species": "Sizzlipede",
+    "num": 850,
+    "types": [
+      "Fire",
+      "Bug"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 65,
+      "def": 45,
+      "spa": 50,
+      "spd": 50,
+      "spe": 45
+    },
+    "abilities": {
+      "0": "Flash Fire",
+      "1": "White Smoke",
+      "H": "Flame Body"
+    },
+    "heightm": 0.7,
+    "weightkg": 1
+  },
+  "centiskorch": {
+    "species": "Centiskorch",
+    "num": 851,
+    "types": [
+      "Fire",
+      "Bug"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 115,
+      "def": 65,
+      "spa": 90,
+      "spd": 90,
+      "spe": 65
+    },
+    "abilities": {
+      "0": "Flash Fire",
+      "1": "White Smoke",
+      "H": "Flame Body"
+    },
+    "heightm": 3,
+    "weightkg": 120
+  },
+  "clobbopus": {
+    "species": "Clobbopus",
+    "num": 852,
+    "types": [
+      "Fighting"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 68,
+      "def": 60,
+      "spa": 50,
+      "spd": 50,
+      "spe": 32
+    },
+    "abilities": {
+      "0": "Limber",
+      "1": "Limber",
+      "H": "Technician"
+    },
+    "heightm": 0.6,
+    "weightkg": 4
+  },
+  "grapploct": {
+    "species": "Grapploct",
+    "num": 853,
+    "types": [
+      "Fighting"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 118,
+      "def": 90,
+      "spa": 70,
+      "spd": 80,
+      "spe": 42
+    },
+    "abilities": {
+      "0": "Limber",
+      "1": "Limber",
+      "H": "Technician"
+    },
+    "heightm": 1.6,
+    "weightkg": 39
+  },
+  "sinistea": {
+    "species": "Sinistea",
+    "num": 854,
+    "types": [
+      "Ghost"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 45,
+      "def": 45,
+      "spa": 74,
+      "spd": 54,
+      "spe": 50
+    },
+    "abilities": {
+      "0": "Weak Armor",
+      "1": "Weak Armor",
+      "H": "Cursed Body"
+    },
+    "heightm": 0.1,
+    "weightkg": 0.2
+  },
+  "polteageist": {
+    "species": "Polteageist",
+    "num": 855,
+    "types": [
+      "Ghost"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 65,
+      "def": 65,
+      "spa": 134,
+      "spd": 114,
+      "spe": 70
+    },
+    "abilities": {
+      "0": "Weak Armor",
+      "1": "Weak Armor",
+      "H": "Cursed Body"
+    },
+    "heightm": 0.2,
+    "weightkg": 0.4
+  },
+  "hatenna": {
+    "species": "Hatenna",
+    "num": 856,
+    "types": [
+      "Psychic"
+    ],
+    "baseStats": {
+      "hp": 42,
+      "atk": 30,
+      "def": 45,
+      "spa": 56,
+      "spd": 53,
+      "spe": 39
+    },
+    "abilities": {
+      "0": "Healer",
+      "1": "Anticipation",
+      "H": "Magic Bounce"
+    },
+    "heightm": 0.4,
+    "weightkg": 3.4
+  },
+  "hattrem": {
+    "species": "Hattrem",
+    "num": 857,
+    "types": [
+      "Psychic"
+    ],
+    "baseStats": {
+      "hp": 57,
+      "atk": 40,
+      "def": 65,
+      "spa": 86,
+      "spd": 73,
+      "spe": 49
+    },
+    "abilities": {
+      "0": "Healer",
+      "1": "Anticipation",
+      "H": "Magic Bounce"
+    },
+    "heightm": 0.6,
+    "weightkg": 4.8
+  },
+  "hatterene": {
+    "species": "Hatterene",
+    "num": 858,
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "baseStats": {
+      "hp": 57,
+      "atk": 90,
+      "def": 95,
+      "spa": 136,
+      "spd": 103,
+      "spe": 29
+    },
+    "abilities": {
+      "0": "Healer",
+      "1": "Anticipation",
+      "H": "Magic Bounce"
+    },
+    "heightm": 2.1,
+    "weightkg": 5.1
+  },
+  "impidimp": {
+    "species": "Impidimp",
+    "num": 859,
+    "types": [
+      "Dark",
+      "Fairy"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 45,
+      "def": 30,
+      "spa": 55,
+      "spd": 40,
+      "spe": 50
+    },
+    "abilities": {
+      "0": "Prankster",
+      "1": "Frisk",
+      "H": "Pickpocket"
+    },
+    "heightm": 0.4,
+    "weightkg": 5.5
+  },
+  "morgrem": {
+    "species": "Morgrem",
+    "num": 860,
+    "types": [
+      "Dark",
+      "Fairy"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 60,
+      "def": 45,
+      "spa": 75,
+      "spd": 55,
+      "spe": 70
+    },
+    "abilities": {
+      "0": "Prankster",
+      "1": "Frisk",
+      "H": "Pickpocket"
+    },
+    "heightm": 0.8,
+    "weightkg": 12.5
+  },
+  "grimmsnarl": {
+    "species": "Grimmsnarl",
+    "num": 861,
+    "types": [
+      "Dark",
+      "Fairy"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 120,
+      "def": 65,
+      "spa": 95,
+      "spd": 75,
+      "spe": 60
+    },
+    "abilities": {
+      "0": "Prankster",
+      "1": "Frisk",
+      "H": "Pickpocket"
+    },
+    "heightm": 1.5,
+    "weightkg": 61
+  },
+  "obstagoon": {
+    "species": "Obstagoon",
+    "num": 862,
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "baseStats": {
+      "hp": 93,
+      "atk": 90,
+      "def": 101,
+      "spa": 60,
+      "spd": 81,
+      "spe": 95
+    },
+    "abilities": {
+      "0": "Reckless",
+      "1": "Guts",
+      "H": "Defiant"
+    },
+    "heightm": 1.6,
+    "weightkg": 46
+  },
+  "perrserker": {
+    "species": "Perrserker",
+    "num": 863,
+    "types": [
+      "Steel"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 110,
+      "def": 100,
+      "spa": 50,
+      "spd": 60,
+      "spe": 50
+    },
+    "abilities": {
+      "0": "Battle Armor",
+      "1": "Tough Claws",
+      "H": "Steely Spirit"
+    },
+    "heightm": 0.8,
+    "weightkg": 28
+  },
+  "cursola": {
+    "species": "Cursola",
+    "num": 864,
+    "types": [
+      "Ghost"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 95,
+      "def": 50,
+      "spa": 145,
+      "spd": 130,
+      "spe": 30
+    },
+    "abilities": {
+      "0": "Weak Armor",
+      "1": "Weak Armor",
+      "H": "Perish Body"
+    },
+    "heightm": 1,
+    "weightkg": 0.4
+  },
+  "sirfetch'd": {
+    "species": "Sirfetch'd",
+    "num": 865,
+    "types": [
+      "Fighting"
+    ],
+    "baseStats": {
+      "hp": 62,
+      "atk": 135,
+      "def": 95,
+      "spa": 68,
+      "spd": 82,
+      "spe": 65
+    },
+    "abilities": {
+      "0": "Steadfast",
+      "1": "Steadfast",
+      "H": "Scrappy"
+    },
+    "heightm": 0.8,
+    "weightkg": 117
+  },
+  "mr.rime": {
+    "species": "Mr. Rime",
+    "num": 866,
+    "baseSpecies": "Mr. Rime",
+    "types": [
+      "Ice",
+      "Psychic"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 85,
+      "def": 75,
+      "spa": 110,
+      "spd": 100,
+      "spe": 70
+    },
+    "abilities": {
+      "0": "Tangled Feet",
+      "1": "Screen Cleaner",
+      "H": "Ice Body"
+    },
+    "heightm": 1.5,
+    "weightkg": 58.2
+  },
+  "runerigus": {
+    "species": "Runerigus",
+    "num": 867,
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
+    "baseStats": {
+      "hp": 58,
+      "atk": 95,
+      "def": 145,
+      "spa": 50,
+      "spd": 105,
+      "spe": 30
+    },
+    "abilities": {
+      "0": "Wandering Spirit",
+      "1": "Wandering Spirit",
+      "H": "Wandering Spirit"
+    },
+    "heightm": 1.6,
+    "weightkg": 66.6
+  },
+  "milcery": {
+    "species": "Milcery",
+    "num": 868,
+    "types": [
+      "Fairy"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 40,
+      "def": 40,
+      "spa": 50,
+      "spd": 61,
+      "spe": 34
+    },
+    "abilities": {
+      "0": "Sweet Veil",
+      "1": "Sweet Veil",
+      "H": "Aroma Veil"
+    },
+    "heightm": 0.2,
+    "weightkg": 0.3
+  },
+  "alcremie": {
+    "species": "Alcremie",
+    "num": 869,
+    "types": [
+      "Fairy"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 60,
+      "def": 75,
+      "spa": 110,
+      "spd": 121,
+      "spe": 64
+    },
+    "abilities": {
+      "0": "Sweet Veil",
+      "1": "Sweet Veil",
+      "H": "Aroma Veil"
+    },
+    "heightm": 0.3,
+    "weightkg": 0.5
+  },
+  "falinks": {
+    "species": "Falinks",
+    "num": 870,
+    "types": [
+      "Fighting"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 100,
+      "def": 100,
+      "spa": 70,
+      "spd": 60,
+      "spe": 75
+    },
+    "abilities": {
+      "0": "Battle Armor",
+      "1": "Battle Armor",
+      "H": "Defiant"
+    },
+    "heightm": 3,
+    "weightkg": 62
+  },
+  "pincurchin": {
+    "species": "Pincurchin",
+    "num": 871,
+    "types": [
+      "Electric"
+    ],
+    "baseStats": {
+      "hp": 48,
+      "atk": 101,
+      "def": 95,
+      "spa": 91,
+      "spd": 85,
+      "spe": 15
+    },
+    "abilities": {
+      "0": "Lightning Rod",
+      "1": "Lightning Rod",
+      "H": "Electric Surge"
+    },
+    "heightm": 0.3,
+    "weightkg": 1
+  },
+  "snom": {
+    "species": "Snom",
+    "num": 872,
+    "types": [
+      "Ice",
+      "Bug"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "atk": 25,
+      "def": 35,
+      "spa": 45,
+      "spd": 30,
+      "spe": 20
+    },
+    "abilities": {
+      "0": "Shield Dust",
+      "1": "Shield Dust",
+      "H": "Ice Scales"
+    },
+    "heightm": 0.3,
+    "weightkg": 3.8
+  },
+  "frosmoth": {
+    "species": "Frosmoth",
+    "num": 873,
+    "types": [
+      "Ice",
+      "Bug"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 65,
+      "def": 60,
+      "spa": 125,
+      "spd": 90,
+      "spe": 65
+    },
+    "abilities": {
+      "0": "Shield Dust",
+      "1": "Shield Dust",
+      "H": "Ice Scales"
+    },
+    "heightm": 1.3,
+    "weightkg": 42
+  },
+  "stonjourner": {
+    "species": "Stonjourner",
+    "num": 874,
+    "types": [
+      "Rock"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 125,
+      "def": 135,
+      "spa": 20,
+      "spd": 20,
+      "spe": 70
+    },
+    "abilities": {
+      "0": "Power Spot",
+      "1": "Power Spot",
+      "H": "Power Spot"
+    },
+    "heightm": 2.5,
+    "weightkg": 520
+  },
+  "eiscue": {
+    "species": "Eiscue",
+    "num": 875,
+    "types": [
+      "Ice"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 80,
+      "def": 110,
+      "spa": 65,
+      "spd": 90,
+      "spe": 50
+    },
+    "abilities": {
+      "0": "Ice Face",
+      "1": "Ice Face",
+      "H": "Ice Face"
+    },
+    "heightm": 1.4,
+    "weightkg": 89
+  },
+  "eiscuenoice": {
+    "species": "Eiscue-Noice",
+    "num": 1165,
+    "baseSpecies": "Eiscue",
+    "types": [
+      "Ice"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 80,
+      "def": 70,
+      "spa": 65,
+      "spd": 50,
+      "spe": 130
+    },
+    "abilities": {
+      "0": "Ice Face",
+      "1": "Ice Face",
+      "H": "Ice Face"
+    },
+    "heightm": 1.4,
+    "weightkg": 89
+  },
+  "indeedee": {
+    "species": "Indeedee",
+    "num": 876,
+    "types": [
+      "Psychic",
+      "Normal"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 65,
+      "def": 55,
+      "spa": 105,
+      "spd": 95,
+      "spe": 95
+    },
+    "abilities": {
+      "0": "Inner Focus",
+      "1": "Synchronize",
+      "H": "Psychic Surge"
+    },
+    "heightm": 0.9,
+    "weightkg": 28
+  },
+  "indeedeef": {
+    "species": "Indeedee-F",
+    "num": 1166,
+    "baseSpecies": "Indeedee",
+    "forme": "1",
+    "formeLetter": "1",
+    "types": [
+      "Psychic",
+      "Normal"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 55,
+      "def": 65,
+      "spa": 95,
+      "spd": 105,
+      "spe": 85
+    },
+    "abilities": {
+      "0": "Own Tempo",
+      "1": "Synchronize",
+      "H": "Psychic Surge"
+    },
+    "heightm": 0.9,
+    "weightkg": 28
+  },
+  "morpeko": {
+    "species": "Morpeko",
+    "num": 877,
+    "types": [
+      "Electric",
+      "Dark"
+    ],
+    "baseStats": {
+      "hp": 58,
+      "atk": 95,
+      "def": 58,
+      "spa": 70,
+      "spd": 58,
+      "spe": 97
+    },
+    "abilities": {
+      "0": "Hunger Switch",
+      "1": "Hunger Switch",
+      "H": "Hunger Switch"
+    },
+    "heightm": 0.3,
+    "weightkg": 3
+  },
+  "morpekohangry": {
+    "species": "Morpeko-Hangry",
+    "num": 1167,
+    "baseSpecies": "Morpeko",
+    "forme": "1",
+    "formeLetter": "1",
+    "types": [
+      "Electric",
+      "Dark"
+    ],
+    "baseStats": {
+      "hp": 58,
+      "atk": 95,
+      "def": 58,
+      "spa": 70,
+      "spd": 58,
+      "spe": 97
+    },
+    "abilities": {
+      "0": "Hunger Switch",
+      "1": "Hunger Switch",
+      "H": "Hunger Switch"
+    },
+    "heightm": 0.3,
+    "weightkg": 3
+  },
+  "cufant": {
+    "species": "Cufant",
+    "num": 878,
+    "types": [
+      "Steel"
+    ],
+    "baseStats": {
+      "hp": 72,
+      "atk": 80,
+      "def": 49,
+      "spa": 40,
+      "spd": 49,
+      "spe": 40
+    },
+    "abilities": {
+      "0": "Sheer Force",
+      "1": "Sheer Force",
+      "H": "Heavy Metal"
+    },
+    "heightm": 1.2,
+    "weightkg": 100
+  },
+  "copperajah": {
+    "species": "Copperajah",
+    "num": 879,
+    "types": [
+      "Steel"
+    ],
+    "baseStats": {
+      "hp": 122,
+      "atk": 130,
+      "def": 69,
+      "spa": 80,
+      "spd": 69,
+      "spe": 30
+    },
+    "abilities": {
+      "0": "Sheer Force",
+      "1": "Sheer Force",
+      "H": "Heavy Metal"
+    },
+    "heightm": 3,
+    "weightkg": 650
+  },
+  "dracozolt": {
+    "species": "Dracozolt",
+    "num": 880,
+    "types": [
+      "Electric",
+      "Dragon"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 100,
+      "def": 90,
+      "spa": 80,
+      "spd": 70,
+      "spe": 75
+    },
+    "abilities": {
+      "0": "Volt Absorb",
+      "1": "Hustle",
+      "H": "Sand Rush"
+    },
+    "heightm": 1.8,
+    "weightkg": 190
+  },
+  "arctozolt": {
+    "species": "Arctozolt",
+    "num": 881,
+    "types": [
+      "Electric",
+      "Ice"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 100,
+      "def": 90,
+      "spa": 90,
+      "spd": 80,
+      "spe": 55
+    },
+    "abilities": {
+      "0": "Volt Absorb",
+      "1": "Static",
+      "H": "Slush Rush"
+    },
+    "heightm": 2.3,
+    "weightkg": 150
+  },
+  "dracovish": {
+    "species": "Dracovish",
+    "num": 882,
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 90,
+      "def": 100,
+      "spa": 70,
+      "spd": 80,
+      "spe": 75
+    },
+    "abilities": {
+      "0": "Water Absorb",
+      "1": "Strong Jaw",
+      "H": "Sand Rush"
+    },
+    "heightm": 2.3,
+    "weightkg": 215
+  },
+  "arctovish": {
+    "species": "Arctovish",
+    "num": 883,
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 90,
+      "def": 100,
+      "spa": 80,
+      "spd": 90,
+      "spe": 55
+    },
+    "abilities": {
+      "0": "Water Absorb",
+      "1": "Ice Body",
+      "H": "Slush Rush"
+    },
+    "heightm": 2,
+    "weightkg": 175
+  },
+  "duraludon": {
+    "species": "Duraludon",
+    "num": 884,
+    "types": [
+      "Steel",
+      "Dragon"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 95,
+      "def": 115,
+      "spa": 120,
+      "spd": 50,
+      "spe": 85
+    },
+    "abilities": {
+      "0": "Light Metal",
+      "1": "Heavy Metal",
+      "H": "Stalwart"
+    },
+    "heightm": 1.8,
+    "weightkg": 40
+  },
+  "dreepy": {
+    "species": "Dreepy",
+    "num": 885,
+    "types": [
+      "Dragon",
+      "Ghost"
+    ],
+    "baseStats": {
+      "hp": 28,
+      "atk": 60,
+      "def": 30,
+      "spa": 40,
+      "spd": 30,
+      "spe": 82
+    },
+    "abilities": {
+      "0": "Clear Body",
+      "1": "Infiltrator",
+      "H": "Cursed Body"
+    },
+    "heightm": 0.5,
+    "weightkg": 2
+  },
+  "drakloak": {
+    "species": "Drakloak",
+    "num": 886,
+    "types": [
+      "Dragon",
+      "Ghost"
+    ],
+    "baseStats": {
+      "hp": 68,
+      "atk": 80,
+      "def": 50,
+      "spa": 60,
+      "spd": 50,
+      "spe": 102
+    },
+    "abilities": {
+      "0": "Clear Body",
+      "1": "Infiltrator",
+      "H": "Cursed Body"
+    },
+    "heightm": 1.4,
+    "weightkg": 11
+  },
+  "dragapult": {
+    "species": "Dragapult",
+    "num": 887,
+    "types": [
+      "Dragon",
+      "Ghost"
+    ],
+    "baseStats": {
+      "hp": 88,
+      "atk": 120,
+      "def": 75,
+      "spa": 100,
+      "spd": 75,
+      "spe": 142
+    },
+    "abilities": {
+      "0": "Clear Body",
+      "1": "Infiltrator",
+      "H": "Cursed Body"
+    },
+    "heightm": 3,
+    "weightkg": 50
+  },
+  "zacian": {
+    "species": "Zacian",
+    "num": 888,
+    "types": [
+      "Fairy"
+    ],
+    "baseStats": {
+      "hp": 92,
+      "atk": 130,
+      "def": 115,
+      "spa": 80,
+      "spd": 115,
+      "spe": 138
+    },
+    "abilities": {
+      "0": "Intrepid Sword",
+      "1": "Intrepid Sword",
+      "H": "Intrepid Sword"
+    },
+    "heightm": 2.8,
+    "weightkg": 110
+  },
+  "zaciancrowned": {
+    "species": "Zacian-Crowned",
+    "num": 1168,
+    "baseSpecies": "Zacian",
+    "forme": "1",
+    "formeLetter": "1",
+    "types": [
+      "Fairy",
+      "Steel"
+    ],
+    "baseStats": {
+      "hp": 92,
+      "atk": 170,
+      "def": 115,
+      "spa": 80,
+      "spd": 115,
+      "spe": 148
+    },
+    "abilities": {
+      "0": "Intrepid Sword",
+      "1": "Intrepid Sword",
+      "H": "Intrepid Sword"
+    },
+    "heightm": 2.8,
+    "weightkg": 355
+  },
+  "zamazenta": {
+    "species": "Zamazenta",
+    "num": 889,
+    "types": [
+      "Fighting"
+    ],
+    "baseStats": {
+      "hp": 92,
+      "atk": 130,
+      "def": 115,
+      "spa": 80,
+      "spd": 115,
+      "spe": 138
+    },
+    "abilities": {
+      "0": "Dauntless Shield",
+      "1": "Dauntless Shield",
+      "H": "Dauntless Shield"
+    },
+    "heightm": 2.9,
+    "weightkg": 210
+  },
+  "zamazentacrowned": {
+    "species": "Zamazenta-Crowned",
+    "num": 1169,
+    "baseSpecies": "Zamazenta",
+    "forme": "1",
+    "formeLetter": "1",
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
+    "baseStats": {
+      "hp": 92,
+      "atk": 130,
+      "def": 145,
+      "spa": 80,
+      "spd": 145,
+      "spe": 128
+    },
+    "abilities": {
+      "0": "Dauntless Shield",
+      "1": "Dauntless Shield",
+      "H": "Dauntless Shield"
+    },
+    "heightm": 2.9,
+    "weightkg": 785
+  },
+  "eternatus": {
+    "species": "Eternatus",
+    "num": 890,
+    "types": [
+      "Poison",
+      "Dragon"
+    ],
+    "baseStats": {
+      "hp": 140,
+      "atk": 85,
+      "def": 95,
+      "spa": 145,
+      "spd": 95,
+      "spe": 130
+    },
+    "abilities": {
+      "0": "Pressure",
+      "1": "Pressure",
+      "H": "Pressure"
+    },
+    "heightm": 20,
+    "weightkg": 950
+  },
+  "eternatuseternamax": {
+    "species": "Eternatus-Eternamax",
+    "num": 1170,
+    "baseSpecies": "Eternatus",
+    "forme": "1",
+    "formeLetter": "1",
+    "types": [
+      "Poison",
+      "Dragon"
+    ],
+    "baseStats": {
+      "hp": 255,
+      "atk": 115,
+      "def": 250,
+      "spa": 125,
+      "spd": 250,
+      "spe": 130
+    },
+    "abilities": {
+      "0": "Pressure",
+      "1": "Pressure",
+      "H": "Pressure"
+    },
+    "heightm": 100,
+    "weightkg": 0
+  }
+}
